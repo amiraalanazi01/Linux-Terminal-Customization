@@ -50,3 +50,52 @@ fastfetch --logo "$random_logo"
 
 
 
+
+
+
+
+
+Steps to Set Up
+
+Step 1: Prepare Folders
+
+Create the main folder and subfolders:
+
+    fastfetch-logos/ → for logos
+
+    scripts/ → for your scripts
+
+    screenshots/ → for terminal screenshots
+
+
+Step 2: Add Scripts
+
+Place your custom scripts inside the scripts/ folder.
+
+Example: anime-fetch.sh (see above)
+
+
+Step 3: Add Logos
+
+Place your ASCII logos inside fastfetch-logos/.
+
+
+Step 4: Run the Scripts
+
+Navigate to the scripts/ folder and run:
+
+bash anime-fetch.sh
+
+Step 5: Enjoy Your Custom Terminal
+
+See your terminal customized with logos and outputs from your scripts.
+
+Notes
+
+    Make sure bash is installed.
+
+    Ensure Fastfetch is installed on your system.
+
+    Modify logos or scripts to personalize your terminal.
+
+    Screenshots are optional but help show the steps clearly.
